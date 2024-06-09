@@ -1,5 +1,5 @@
 # OpenAI Whisper from Hugging Face Transformers
-https://github.com/krishnaik06/Huggingfacetransformer/tree/main
+
 
 This repository demonstrates how to use OpenAI's Whisper model from Hugging Face Transformers for automatic speech recognition (ASR). The setup and execution are performed in a Google Colab environment.
 
